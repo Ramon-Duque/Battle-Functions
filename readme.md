@@ -20,3 +20,4 @@ Tests can be found in `spec/lab2.spec.js`.
 ## Submission
 
 Add, commit, and push your changes.
+# Battle-Functions
